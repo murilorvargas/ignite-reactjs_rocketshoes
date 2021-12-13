@@ -62,7 +62,7 @@ Now run on another terminal:
 
 ```bash
 $ yarn start
-# The application will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License
