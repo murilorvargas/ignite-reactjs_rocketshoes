@@ -55,7 +55,6 @@ $ cd rocketshoes
 $ yarn
 # Run JSON server
 $ yarn server
-# The server will initialize in the <http://localhost:3333>
 ```
 
 Now run on another terminal:
