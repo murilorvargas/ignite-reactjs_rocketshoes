@@ -53,7 +53,7 @@ $ git clone https://github.com/murilorvargas/rocketshoes
 $ cd rocketshoes
 # Install dependencies
 $ yarn
-# Run the project
+# # Run JSON server
 $ yarn server
 # The server will initialize in the <http://localhost:3333>
 ```
@@ -61,6 +61,7 @@ $ yarn server
 Now run on another terminal:
 
 ```bash
+# Run the project
 $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
